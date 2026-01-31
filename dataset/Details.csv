@@ -4,7 +4,7 @@ B-26055,5729,64,14,Furniture,Chairs,EMI
 B-25955,2927,146,8,Furniture,Bookcases,EMI
 B-26093,2847,712,8,Electronics,Printers,Credit Card
 B-25602,2617,1151,4,Electronics,Phones,Credit Card
-B-25881,2244,247,4,Clothing,Trousers,Credit Card
+B-25881,2244,247,4,Clothing,Trousers,Credit card
 B-25696,275,-275,4,Clothing,Saree,COD
 B-25687,387,-213,5,Clothing,Saree,UPI
 B-25643,50,-44,2,Clothing,Hankerchief,UPI
@@ -1499,6 +1499,7 @@ B-25757,3151,-35,7,Clothing,Trousers,EMI
 B-25973,4141,1698,13,Electronics,Printers,COD
 B-25698,7,-2,1,Clothing,Hankerchief,COD
 B-25993,4363,305,5,Furniture,Tables,EMI
+
 
 
 
